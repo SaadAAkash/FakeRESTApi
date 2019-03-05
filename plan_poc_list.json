@@ -1,0 +1,55 @@
+{
+    "poc_data": [
+        {
+            "zip": "",
+            "state_id": "",
+            "city": "Dhaka",
+            "id": 1,
+            "name": "Banaful Mistanno Bhander",
+            "lat": 23.76584,
+            "email": "xy@gmail.com",
+            "mobile": "011544545",
+            "lng": 90.35836,
+            "parent_id": "Mohammadpur",
+            "street2": "",
+            "street": "",
+            "website": "www.xy.com",
+            "phone": "01215564"
+        },
+        {
+            "zip": "",
+            "state_id": "",
+            "city": "Dhaka",
+            "id": 2,
+            "name": "Muslim Sweets",
+            "lat": 23.76584,
+            "email": "",
+            "mobile": "",
+            "lng": 90.35836,
+            "parent_id": "Mohammadpur",
+            "street2": "",
+            "street": "",
+            "website": "",
+            "phone": ""
+        },
+        {
+            "zip": "1207",
+            "state_id": "Georgia",
+            "city": "Dhaka",
+            "id": 3,
+            "name": "KFC 6",
+            "lat": 23.75045,
+            "email": "xy@gmail.com",
+            "mobile": "011544545",
+            "lng": 90.38932,
+            "parent_id": "Mohammadpur",
+            "street2": "XY",
+            "street": "X",
+            "website": "",
+            "phone": "01215564"
+        }
+    ],
+    "status": 200,
+    "message": true,
+    "data": "Test"
+}
